@@ -1,0 +1,9 @@
+<?php
+/**
+ * @file
+ * Drupal needs this blank file.
+ */
+
+function admin_improvements_form_alter(&$form, &$form_state, $form_id) {
+  $id = $form_id;
+}
